@@ -1,6 +1,6 @@
 Description : 
 this program creats a new temporary file and copies all the content of the
-specified file to the new file, and when a tab charactr "\t" is encounterd
+specified file to the new file, and when a tab character "\t" is encounterd
 the program replaces it with four space characters "    " (the rule of four
 in python indentation). after copying is done, the new file is renamed after
 the old file and the old file is removed.
